@@ -11,3 +11,5 @@ After having such thought, I decided to go do my research. Quickly, I found ther
 Clean and simple UI/UX design, also with the touch of smooth animations can give users much more impact and positive experience. With such features, why should not use GameBackGG to provide and share some gaming feedback on games? 
 
 ### Check out: GameBack.gg (still in the early stage)
+
+SOON TM.
