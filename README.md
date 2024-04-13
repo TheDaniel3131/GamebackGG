@@ -1,3 +1,5 @@
+# Background & Idea Phases
+
 ## What is GameBackGG?
 GameBackGG, also known as GameBack is an online platform for immersive and insightful feedback from gaming users based on your favorite games! Dive into a vibrant community where gamers share their experiences, opinions, and ratings to help you decide which games to play. The reason I chose GameBack as the brand name is because I figured that by putting "Game" + "Feed-Back", and removing the "Feed" from the phrase, it sounds catchy and easy to remember. Therefore, GameBack as the name creation was created.
 
