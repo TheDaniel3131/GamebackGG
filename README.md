@@ -12,4 +12,6 @@ Clean and simple UI/UX design, also with the touch of smooth animations can give
 
 ### Check out: GameBack.gg (still in the early stage)
 
+### Update: I am going to start this project sooner as soon as my other project is finished.
+
 SOON TM.
