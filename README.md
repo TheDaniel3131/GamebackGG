@@ -10,7 +10,7 @@ Around early January of 2024, I had this idea that everyone could review and rat
 After having such thought, I decided to do my research. Quickly, I discovered one website I am interested in which is popularly recognized, OpenCritic. So as a curious human being, I took my free time and checked out and I was surprised by how they operated and how they run their website which sparked my interest heavily.
 
 ## Why GameBackGG?
-GameBackGG has a Better, Cleaner, and Simpler UI/UX design, we also consider offering the touch of smooth animations which give users a much more impact and a positive experience. With such features, why should users not use GameBackGG to provide and share some gaming feedback on games? 
+GameBackGG has a Better, Cleaner, and Simpler UI/UX design, we also consider offering the touch of smooth animations which give users a much more impact and a positive experience. Most importantly, we want to be user-friendly. With such features, why should users not use GameBackGG to provide and share some gaming feedback on games? 
 
 ### Check out: GameBack.gg (still in the early stage)
 
