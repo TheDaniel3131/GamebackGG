@@ -16,4 +16,4 @@ GameBackGG has a Better, Cleaner, and Simpler UI/UX design, we also consider off
 
 ##### Update (13-4-2024): The team is about to start this project as soon as other projects are finished.
 
-SOON TM.
+*SOON TM.*
