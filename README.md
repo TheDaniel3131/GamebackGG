@@ -1,5 +1,5 @@
 ## What is GameBackGG?
-GameBackGG, also known as GameBack is an online platform for immersive and insightful feedback from gaming users based on your favorite games! Dive into a vibrant community where gamers share their experiences, opinions, and ratings to help you decide which games to play. The reason of chose GameBack as the brand name is because I figured that by putting "Game" + "Feed-Back", and removing the "Feed" from the phrase, sounds catchy and easy to remember. Therefore, GameBack as the name creation was created.
+GameBackGG, also known as GameBack is an online platform for immersive and insightful feedback from gaming users based on your favorite games! Dive into a vibrant community where gamers share their experiences, opinions, and ratings to help you decide which games to play. The reason I chose GameBack as the brand name is because I figured that by putting "Game" + "Feed-Back", and removing the "Feed" from the phrase, sound catchy and easy to remember. Therefore, GameBack as the name creation was created.
 
 ## Background of the Project Idea
 Around early of the year 2024, I had this idea that everyone could review and rate any of the games they played/liked. My inspiration is coming from MyAnimeList particularly because I always use that website to give ratings on every anime I watch. 
